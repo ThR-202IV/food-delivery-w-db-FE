@@ -15,6 +15,5 @@ The Business Requirements Document (BRD) is maintained in the Server-Side reposi
   - Business Requirements Document - LINK
 
 Related Repositories
-  - Client Side: [View Client Repository]
   - Server Side: [View Server Repository](https://github.com/ThR-202IV/food-delivery-w-db-BE)
   - Admin Side: [View Admin Repository](https://github.com/ThR-202IV/food-delivery-w-db-Admin)
